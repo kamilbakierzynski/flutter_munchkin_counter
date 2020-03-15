@@ -1,0 +1,23 @@
+{
+  "battle": "Battle",
+  "counter": "Counter",
+  "dice": "Dice",
+  "settings": "Settings",
+  "reset_player": "Reset player",
+  "reset_monster": "Reset monster",
+  "you": "You",
+  "monster": "Monster",
+  "male": "Male",
+  "female": "Female",
+  "death": "Death",
+  "level": "Level",
+  "gear": "Gear",
+  "roll_a_dice": "Roll a dice",
+  "dark_mode": "Dark mode",
+  "keep_screen_on": "Keep screen on",
+  "overwrite_device_language": "Change language",
+  "choose_language": "Choose language",
+  "restart_app_to_change_language": "Restart app to change the language",
+  "set": "SET",
+  "cancel": "CANCEL"
+}

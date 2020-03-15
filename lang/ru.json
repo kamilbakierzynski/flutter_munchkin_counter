@@ -1,0 +1,23 @@
+{
+  "battle": "Бой",
+  "counter": "Счётчик",
+  "dice": "Кубик",
+  "settings": "Настройки",
+  "reset_player": "Сброс игрока",
+  "reset_monster": "Сброс монстра",
+  "you": "Игрок",
+  "monster": "Монстр",
+  "male": "Мужчина",
+  "female": "Женщина",
+  "death": "Смерть",
+  "level": "Уровень",
+  "gear": "Бонус",
+  "roll_a_dice": "Бросить кубик",
+  "dark_mode": "Тёмный режим",
+  "keep_screen_on": "Не отключать экран",
+  "overwrite_device_language": "Сменить язык",
+  "choose_language": "Выбор языка",
+  "restart_app_to_change_language": "Сбросить приложение, чтобы сменить язык",
+  "set": "Установить",
+  "cancel": "Отмена"
+}

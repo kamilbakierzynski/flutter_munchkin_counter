@@ -1,0 +1,23 @@
+{
+  "battle": "Walka",
+  "counter": "Licznik",
+  "dice": "Kostka",
+  "settings": "Ustawienia",
+  "reset_player": "Reset gracza",
+  "reset_monster": "Reset potwora",
+  "you": "Gracz",
+  "monster": "Potwór",
+  "male": "Mężczyzna",
+  "female": "Kobieta",
+  "death": "Śmierć",
+  "level": "Poziom",
+  "gear": "Bonusy",
+  "roll_a_dice": "Rzut kostką",
+  "dark_mode": "Tryb ciemny",
+  "keep_screen_on": "Nie wygaszaj ekranu",
+  "overwrite_device_language": "Zmień język",
+  "choose_language": "Wybierz język",
+  "restart_app_to_change_language": "Zresetuj aplikację by zmienić język",
+  "set": "USTAW",
+  "cancel": "ANULUJ"
+}
