@@ -3,7 +3,7 @@
 ### Download the app from Google Play Store
 [![Get it on Google play](https://imgur.com/78Twxji.png)](https://play.google.com/store/apps/details?id=com.bakierzynski.munchkin.munchkinlevelcounter)
 
-This app was made with Flutter. It's a support for people playing the classic board game called Munchkin. It helps you track your level in case you don't have special dices on you. It's avaliable for free without ads. 
+This app was made with Flutter. It's a support for people playing the classic card game called Munchkin. It helps you track your level in case you don't have special dices on you. It's avaliable for free without ads. 
 ## Features
 
  - Dynamic support for English, Russian and Polish
